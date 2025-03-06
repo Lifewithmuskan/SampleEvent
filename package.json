@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "jashn-e-rekhta-frontend",
   "version": "0.1.0",
   "private": true,
@@ -42,5 +43,24 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.0.10"
+=======
+  "name": "jashn-e-rekhta-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^11.4.0",
+    "firebase-admin": "^13.2.0"
+>>>>>>> c8aa852a8e92019027f33dce858956839c5af65b
   }
 }
